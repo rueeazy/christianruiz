@@ -1,0 +1,356 @@
+$hinted: rgb(100, 255, 218);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #0A1A30;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.app {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-auto-columns: auto;
+    background-color: #0A1A30;
+    color: rgb(168, 178, 209);
+    font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;;
+}
+
+//navbar
+.navbar{
+    grid-column: 1 / -1;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    transition: top 0.3s;
+    background-color: #0A1A30;
+    box-shadow: 0 10px 30px -10px rgba(2,12,27,0.7);
+
+    .nav-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+    }
+
+    li {
+        margin: 1rem;
+        list-style-type: none;
+    }
+
+    a {
+        color: inherit;
+        text-decoration: none;
+        font-size: 1.3rem;
+    }
+
+    .hint {
+        color: $hinted
+    }
+
+    .resume {
+        color: $hinted;
+        border: 1px solid $hinted;
+        padding: .25rem;
+        border-radius: 4px;
+    }
+}
+
+
+//main top-section
+.main {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    
+
+    .main-content {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: auto;
+        height: 60%;
+        width: 80%;
+    }
+
+    .intro-text {
+        grid-column: 1 / -1;
+        font-size: 3rem;
+    }
+
+    .intro {
+        font-size: 1rem;
+        color: rgb(100, 255, 218);
+    }
+
+    .introduction {
+        color: #CCD6F6;
+        font-size: 5rem;
+        font-weight: bold;
+    }
+
+    .about-me {
+        grid-column: 1 / -1;
+    }
+
+    a {
+        width: 150px;
+        height: 50px;
+    }
+
+    .contact-me {
+        cursor: pointer;
+        border: 1px solid $hinted;
+        background-color: inherit;
+        color: $hinted;
+        padding: 1rem;
+        border-radius: 4px;
+    }
+}
+
+//about me section
+.about {
+    grid-column: 1 / -1;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .about-container {
+        display: flex;
+        width: 80%;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    .text-container {
+        height: auto;
+        width: 550px;
+    }
+
+    .languages {
+        height: 80px;
+        width: 100%;
+    }
+
+    .ul {
+        margin-top: .5rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        list-style: none;
+
+        li {
+            margin-top: .25rem;
+        }
+
+        li::before {
+            content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+            color: $hinted; /* Change the color */
+            font-weight: bold; /* If you want it to be bold */
+            display: inline-block; /* Needed to add space between the bullet and the text */
+            width: 1em; /* Also needed for space (tweak if needed) */
+            margin-left: 0em; /* Also needed for space (tweak if needed) */
+        }
+    }
+
+    .title {
+        color:#CCD6F6;
+        font-weight: bold;
+        font-size: 1.3rem;
+    }
+
+    .avatar {
+        border-radius: 50%;
+    }
+}
+
+//projects mid-section
+.projects {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+.projects-container {
+    width: 80%;
+    height: auto;
+    padding: 4rem 0rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    justify-items: center;
+    align-content: center;
+    grid-gap: 2rem;
+    
+    .title {
+        grid-column: 1 / -1;
+        width: 100%;
+        display: flex;
+        font-size: 1.3rem;
+        font-weight: bold;
+        color: #CCD6F6;
+        justify-content: flex-start;
+    }
+}
+
+.card {
+    width: 240px;
+    height: auto;
+    padding-bottom: .5rem;
+    border-radius: 3px;
+    background-color: #172A45;
+    box-shadow: 0 10px 30px -15px #0a192f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &:hover {
+        box-shadow: 0 10px 30px -10px rgba(2,12,27,0.7);
+        border: 1px solid rgba(255, 255, 255, .3);
+        cursor: pointer;
+    }
+
+    .project-photo {
+        height: auto;
+        width: 100%;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+    }
+
+    .caption {
+        font-size: 1.3rem;
+        cursor: default;
+        color: #CCD6F6;
+    }
+
+    .icons {
+        display: flex;
+        margin-top:.5rem;
+
+        .icon {
+            margin: 0rem 1rem;
+            font-size: 1.3rem;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        a:hover {
+            color: $hinted;
+        }
+    }
+}
+
+
+//footer end-section
+.footer {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+
+    .reach-me {
+        margin: 3rem;
+        font-size: 2rem;
+        font-weight: bold;
+        color: $hinted;
+    }
+
+    .reach-icons {
+        font-size: 1.5rem;
+    }
+
+    .footer-icon {
+        font-size: 1.5rem;
+    }
+
+    a {
+        margin: 1rem;
+        text-decoration: none;
+        color: inherit;
+
+        &:hover {
+            color: $hinted;
+        }
+    }
+
+    .trademark {
+        font-size: .6rem;
+        margin: 2rem;
+    }
+
+    .copyright {
+        color: $hinted;
+    }
+}
+
+//Media Queries
+
+@media only screen and (max-width: 992px) {
+    .about {
+        .text-container {
+            width: 300px;
+        }
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .main {
+        .introduction {
+            font-size: 3rem;
+        }
+    }
+
+    .about {
+        .about-container {
+            flex-direction: column-reverse;
+            justify-content: center;
+        }
+
+        .text-container {
+            width: 100%;
+        }
+
+        .photo {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 1rem;
+        }
+
+        img {
+            width: 60%;
+            height: auto;
+        }
+    }
+}

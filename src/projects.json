@@ -1,0 +1,58 @@
+[ 
+    {
+        "id": 1,
+        "name": "Battleship",
+        "image": "battleship",
+        "repo": "https://github.com/rueeazy/battleship",
+        "live": "https://rueeazy.github.io/battleship/"
+    },
+    {
+        "id": 2,
+        "name": "Memory Game",
+        "image": "memory",
+        "repo": "https://github.com/rueeazy/memory-game",
+        "live": "https://rueeazy.github.io/memory-game/"
+    },
+    {
+        "id": 3,
+        "name": "Shopping Cart",
+        "image": "shopping",
+        "repo": "https://github.com/rueeazy/shopping-cart",
+        "live": "https://rueeazy.github.io/shopping-cart/"
+    },
+    {
+        "id": 4,
+        "name": "Todo List",
+        "image": "todo",
+        "repo": "https://github.com/rueeazy/todo-list",
+        "live": "https://rueeazy.github.io/todo-list/"
+    },
+    {
+        "id": 5,
+        "name": "Where's Waldo",
+        "image": "waldo",
+        "repo": "https://github.com/rueeazy/where-is-waldo",
+        "live": "https://top-where-is-waldo.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "name": "Weather App",
+        "image": "weather",
+        "repo": "https://github.com/rueeazy/weather-app",
+        "live": "https://rueeazy.github.io/weather-app/"
+    },
+    {
+        "id": 7,
+        "name": "Chess",
+        "image": "chess",
+        "repo": "https://github.com/rueeazy/chess",
+        "live": "https://chess.rueeazy.repl.run/"
+    },
+    {
+        "id": 8,
+        "name": "Tic Tac Toe",
+        "image": "tic-tac-toe",
+        "repo": "https://github.com/rueeazy/tic-tac-toe",
+        "live": "https://rueeazy.github.io/tic-tac-toe/"
+    }
+]
