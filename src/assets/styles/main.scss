@@ -19,17 +19,22 @@ html {
 
 .app {
     display: grid;
+    height: 100%;
     grid-template-columns: repeat(12, 1fr);
     grid-auto-columns: auto;
     background-color: #0A1A30;
     color: rgb(168, 178, 209);
-    font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;;
+    font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 //navbar
 .navbar{
     grid-column: 1 / -1;
     width: 100%;
+    height: 60px;
     position: fixed;
     top: 0;
     transition: top 0.3s;
@@ -39,6 +44,7 @@ html {
     .nav-container {
         display: flex;
         justify-content: flex-end;
+        height: 60px;
     }
 
     ul {
@@ -328,7 +334,7 @@ html {
 @media only screen and (max-width: 768px) {
     .main {
         .introduction {
-            font-size: 3rem;
+            font-size: 2.8rem;
         }
     }
 
@@ -345,12 +351,30 @@ html {
         .photo {
             display: flex;
             justify-content: center;
-            margin-bottom: 1rem;
+            margin-bottom: 2rem;
         }
 
         img {
             width: 60%;
             height: auto;
         }
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    .about {
+        img {
+            width: 200px;
+            height: 200px;
+        }
+    }
+
+    .projects {
+        margin-top: 5rem;
+    }
+
+    .projects-container {
+        padding: 2rem 0rem;
     }
 }
