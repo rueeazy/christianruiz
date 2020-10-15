@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/christianruiz/static/css/main.c7168dae.chunk.css",
-    "main.js": "/christianruiz/static/js/main.99a1ca54.chunk.js",
-    "main.js.map": "/christianruiz/static/js/main.99a1ca54.chunk.js.map",
+    "main.js": "/christianruiz/static/js/main.f677cab5.chunk.js",
+    "main.js.map": "/christianruiz/static/js/main.f677cab5.chunk.js.map",
     "runtime-main.js": "/christianruiz/static/js/runtime-main.50e4d4a7.js",
     "runtime-main.js.map": "/christianruiz/static/js/runtime-main.50e4d4a7.js.map",
     "static/js/2.be4fc5bf.chunk.js": "/christianruiz/static/js/2.be4fc5bf.chunk.js",
     "static/js/2.be4fc5bf.chunk.js.map": "/christianruiz/static/js/2.be4fc5bf.chunk.js.map",
     "index.html": "/christianruiz/index.html",
-    "precache-manifest.9a9b4e781e091700fb2f1ef69fac24e3.js": "/christianruiz/precache-manifest.9a9b4e781e091700fb2f1ef69fac24e3.js",
+    "precache-manifest.e7b4e755beb6f0cd7270155af967dd3b.js": "/christianruiz/precache-manifest.e7b4e755beb6f0cd7270155af967dd3b.js",
     "service-worker.js": "/christianruiz/service-worker.js",
     "static/css/main.c7168dae.chunk.css.map": "/christianruiz/static/css/main.c7168dae.chunk.css.map",
     "static/js/2.be4fc5bf.chunk.js.LICENSE.txt": "/christianruiz/static/js/2.be4fc5bf.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.50e4d4a7.js",
     "static/js/2.be4fc5bf.chunk.js",
     "static/css/main.c7168dae.chunk.css",
-    "static/js/main.99a1ca54.chunk.js"
+    "static/js/main.f677cab5.chunk.js"
   ]
 }
