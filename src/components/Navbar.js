@@ -6,7 +6,6 @@ const Navbar = () => {
 
     useEffect(() => {
         window.addEventListener("scroll", handleScroll);
-
         return () => {
             window.addEventListener("scroll", handleScroll);
           }
@@ -15,9 +14,11 @@ const Navbar = () => {
     const handleScroll = () => {
         let currentScrollPos = window.pageYOffset;
         if (prevScrollPos > currentScrollPos) {
-            document.getElementById("navbar").style.top = "0";
+            document.getElementById("navbar").style.top = "0px";
+        } else if(currentScrollPos < 10) {
+          document.getElementById("navbar").style.top = "0px";
         } else {
-            document.getElementById("navbar").style.top = "-50px";
+          document.getElementById("navbar").style.top = "-60px";
         }
         setPrevScrollPos(currentScrollPos)
     }
