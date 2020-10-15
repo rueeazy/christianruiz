@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/christianruiz/static/css/main.e39af566.chunk.css",
-    "main.js": "/christianruiz/static/js/main.8ce4d30e.chunk.js",
-    "main.js.map": "/christianruiz/static/js/main.8ce4d30e.chunk.js.map",
+    "main.css": "/christianruiz/static/css/main.141321e6.chunk.css",
+    "main.js": "/christianruiz/static/js/main.b3dd8bf3.chunk.js",
+    "main.js.map": "/christianruiz/static/js/main.b3dd8bf3.chunk.js.map",
     "runtime-main.js": "/christianruiz/static/js/runtime-main.50e4d4a7.js",
     "runtime-main.js.map": "/christianruiz/static/js/runtime-main.50e4d4a7.js.map",
     "static/js/2.be4fc5bf.chunk.js": "/christianruiz/static/js/2.be4fc5bf.chunk.js",
     "static/js/2.be4fc5bf.chunk.js.map": "/christianruiz/static/js/2.be4fc5bf.chunk.js.map",
     "index.html": "/christianruiz/index.html",
-    "precache-manifest.5d14de0fca1fbe445f212b69c108a2f2.js": "/christianruiz/precache-manifest.5d14de0fca1fbe445f212b69c108a2f2.js",
+    "precache-manifest.a9c3ab483aad3c064395badf3160e805.js": "/christianruiz/precache-manifest.a9c3ab483aad3c064395badf3160e805.js",
     "service-worker.js": "/christianruiz/service-worker.js",
-    "static/css/main.e39af566.chunk.css.map": "/christianruiz/static/css/main.e39af566.chunk.css.map",
+    "static/css/main.141321e6.chunk.css.map": "/christianruiz/static/css/main.141321e6.chunk.css.map",
     "static/js/2.be4fc5bf.chunk.js.LICENSE.txt": "/christianruiz/static/js/2.be4fc5bf.chunk.js.LICENSE.txt",
     "static/media/battleship.png": "/christianruiz/static/media/battleship.808d7406.png",
     "static/media/chess.png": "/christianruiz/static/media/chess.738b5f7e.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.50e4d4a7.js",
     "static/js/2.be4fc5bf.chunk.js",
-    "static/css/main.e39af566.chunk.css",
-    "static/js/main.8ce4d30e.chunk.js"
+    "static/css/main.141321e6.chunk.css",
+    "static/js/main.b3dd8bf3.chunk.js"
   ]
 }
