@@ -50,9 +50,9 @@
     },
     {
         "id": 8,
-        "name": "Tic Tac Toe",
-        "image": "tic-tac-toe",
-        "repo": "https://github.com/rueeazy/tic-tac-toe",
-        "live": "https://rueeazy.github.io/tic-tac-toe/"
+        "name": "Odinbook",
+        "image": "odinbook",
+        "repo": "https://github.com/rueeazy/odinbook",
+        "live": "https://top-odinbook.herokuapp.com/"
     }
 ]
