@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/christianruiz/static/css/main.141321e6.chunk.css",
-    "main.js": "/christianruiz/static/js/main.ff03953a.chunk.js",
-    "main.js.map": "/christianruiz/static/js/main.ff03953a.chunk.js.map",
+    "main.js": "/christianruiz/static/js/main.7d6a47b1.chunk.js",
+    "main.js.map": "/christianruiz/static/js/main.7d6a47b1.chunk.js.map",
     "runtime-main.js": "/christianruiz/static/js/runtime-main.50e4d4a7.js",
     "runtime-main.js.map": "/christianruiz/static/js/runtime-main.50e4d4a7.js.map",
     "static/js/2.be4fc5bf.chunk.js": "/christianruiz/static/js/2.be4fc5bf.chunk.js",
     "static/js/2.be4fc5bf.chunk.js.map": "/christianruiz/static/js/2.be4fc5bf.chunk.js.map",
     "index.html": "/christianruiz/index.html",
-    "precache-manifest.b1f35e374248aace2837dd4519336584.js": "/christianruiz/precache-manifest.b1f35e374248aace2837dd4519336584.js",
+    "precache-manifest.670309e11e8f1ff245d8f0b0769433b4.js": "/christianruiz/precache-manifest.670309e11e8f1ff245d8f0b0769433b4.js",
     "service-worker.js": "/christianruiz/service-worker.js",
     "static/css/main.141321e6.chunk.css.map": "/christianruiz/static/css/main.141321e6.chunk.css.map",
     "static/js/2.be4fc5bf.chunk.js.LICENSE.txt": "/christianruiz/static/js/2.be4fc5bf.chunk.js.LICENSE.txt",
     "static/media/battleship.png": "/christianruiz/static/media/battleship.808d7406.png",
     "static/media/chess.png": "/christianruiz/static/media/chess.738b5f7e.png",
+    "static/media/covid.png": "/christianruiz/static/media/covid.ebc0c24c.png",
     "static/media/memory.png": "/christianruiz/static/media/memory.667f89aa.png",
+    "static/media/netflix.png": "/christianruiz/static/media/netflix.cad0df90.png",
     "static/media/odinbook.png": "/christianruiz/static/media/odinbook.bc5f97bb.png",
-    "static/media/resume.pdf": "/christianruiz/static/media/resume.934d44ae.pdf",
+    "static/media/resume.pdf": "/christianruiz/static/media/resume.594bb4e1.pdf",
     "static/media/shopping.png": "/christianruiz/static/media/shopping.11b96ccb.png",
     "static/media/tic-tac-toe.png": "/christianruiz/static/media/tic-tac-toe.b31ca428.png",
     "static/media/todo.png": "/christianruiz/static/media/todo.fc41eb23.png",
@@ -27,6 +29,6 @@
     "static/js/runtime-main.50e4d4a7.js",
     "static/js/2.be4fc5bf.chunk.js",
     "static/css/main.141321e6.chunk.css",
-    "static/js/main.ff03953a.chunk.js"
+    "static/js/main.7d6a47b1.chunk.js"
   ]
 }

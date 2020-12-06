@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c28ef1cb7afd7eda928ca53be38c873",
+    "revision": "23ee55a9970cc7b86e64ba107b12360b",
     "url": "/christianruiz/index.html"
   },
   {
-    "revision": "47c1c8e54181528c0881",
+    "revision": "2f50a2fb630cdb720025",
     "url": "/christianruiz/static/css/main.141321e6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianruiz/static/js/2.be4fc5bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47c1c8e54181528c0881",
-    "url": "/christianruiz/static/js/main.ff03953a.chunk.js"
+    "revision": "2f50a2fb630cdb720025",
+    "url": "/christianruiz/static/js/main.7d6a47b1.chunk.js"
   },
   {
     "revision": "e42596209ce81f79b2da",
@@ -32,16 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianruiz/static/media/chess.738b5f7e.png"
   },
   {
+    "revision": "ebc0c24c409b42befb2edb06cc1c0edf",
+    "url": "/christianruiz/static/media/covid.ebc0c24c.png"
+  },
+  {
     "revision": "667f89aa638c0dc1d0873953d7555980",
     "url": "/christianruiz/static/media/memory.667f89aa.png"
+  },
+  {
+    "revision": "cad0df9017254a2d1dc3fac6f114df11",
+    "url": "/christianruiz/static/media/netflix.cad0df90.png"
   },
   {
     "revision": "bc5f97bb31a9371fab4be8c22fa44575",
     "url": "/christianruiz/static/media/odinbook.bc5f97bb.png"
   },
   {
-    "revision": "934d44aec6994cc9aa3e93f0a468571d",
-    "url": "/christianruiz/static/media/resume.934d44ae.pdf"
+    "revision": "594bb4e1a707d2a18d7a823a2eb8f91d",
+    "url": "/christianruiz/static/media/resume.594bb4e1.pdf"
   },
   {
     "revision": "11b96ccbd27451aafb45287c055f001d",
