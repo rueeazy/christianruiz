@@ -1,10 +1,10 @@
 [ 
     {
         "id": 1,
-        "name": "Battleship",
-        "image": "battleship",
-        "repo": "https://github.com/rueeazy/battleship",
-        "live": "https://rueeazy.github.io/battleship/"
+        "name": "Covid Tracker",
+        "image": "covid",
+        "repo": "https://github.com/rueeazy/covid-19-tracker",
+        "live": "https://covid-19-tracker-e4746.web.app/"
     },
     {
         "id": 2,
@@ -15,10 +15,10 @@
     },
     {
         "id": 3,
-        "name": "Shopping Cart",
-        "image": "shopping",
-        "repo": "https://github.com/rueeazy/shopping-cart",
-        "live": "https://rueeazy.github.io/shopping-cart/"
+        "name": "Netflix Clone",
+        "image": "netflix",
+        "repo": "https://github.com/rueeazy/netflix-clone",
+        "live": "netflix-clone-60fb2.web.app/"
     },
     {
         "id": 4,
