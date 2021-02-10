@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "name": "Memory Game",
-        "image": "memory",
-        "repo": "https://github.com/rueeazy/memory-game",
-        "live": "https://rueeazy.github.io/memory-game/"
+        "name": "Amazon Clone",
+        "image": "login",
+        "repo": "https://github.com/rueeazy/amazon-clone",
+        "live": "https://clone-36ea8.web.app/"
     },
     {
         "id": 3,
@@ -43,10 +43,10 @@
     },
     {
         "id": 7,
-        "name": "Chess",
-        "image": "chess",
-        "repo": "https://github.com/rueeazy/chess",
-        "live": "https://chess.rueeazy.repl.run/"
+        "name": "Memory Game",
+        "image": "memory",
+        "repo": "https://github.com/rueeazy/memory-game",
+        "live": "https://rueeazy.github.io/memory-game/"
     },
     {
         "id": 8,
