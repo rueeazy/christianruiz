@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/christianruiz/static/css/main.5a3f98e1.chunk.css",
-    "main.js": "/christianruiz/static/js/main.c90ec5a3.chunk.js",
-    "main.js.map": "/christianruiz/static/js/main.c90ec5a3.chunk.js.map",
+    "main.css": "/christianruiz/static/css/main.51156e64.chunk.css",
+    "main.js": "/christianruiz/static/js/main.10677a2b.chunk.js",
+    "main.js.map": "/christianruiz/static/js/main.10677a2b.chunk.js.map",
     "runtime-main.js": "/christianruiz/static/js/runtime-main.50e4d4a7.js",
     "runtime-main.js.map": "/christianruiz/static/js/runtime-main.50e4d4a7.js.map",
     "static/js/2.70a0181b.chunk.js": "/christianruiz/static/js/2.70a0181b.chunk.js",
     "static/js/2.70a0181b.chunk.js.map": "/christianruiz/static/js/2.70a0181b.chunk.js.map",
     "index.html": "/christianruiz/index.html",
-    "precache-manifest.e39f51f390950019409608ce529f717c.js": "/christianruiz/precache-manifest.e39f51f390950019409608ce529f717c.js",
+    "precache-manifest.72f86662c99de170add901b16ce8b456.js": "/christianruiz/precache-manifest.72f86662c99de170add901b16ce8b456.js",
     "service-worker.js": "/christianruiz/service-worker.js",
-    "static/css/main.5a3f98e1.chunk.css.map": "/christianruiz/static/css/main.5a3f98e1.chunk.css.map",
+    "static/css/main.51156e64.chunk.css.map": "/christianruiz/static/css/main.51156e64.chunk.css.map",
     "static/js/2.70a0181b.chunk.js.LICENSE.txt": "/christianruiz/static/js/2.70a0181b.chunk.js.LICENSE.txt",
     "static/media/covid.png": "/christianruiz/static/media/covid.ebc0c24c.png",
     "static/media/login.png": "/christianruiz/static/media/login.f0a804b8.png",
     "static/media/memory.png": "/christianruiz/static/media/memory.667f89aa.png",
     "static/media/netflix.png": "/christianruiz/static/media/netflix.cad0df90.png",
     "static/media/odinbook.png": "/christianruiz/static/media/odinbook.bc5f97bb.png",
-    "static/media/portrait.jpg": "/christianruiz/static/media/portrait.554bc3db.jpg",
+    "static/media/portrait.jpeg": "/christianruiz/static/media/portrait.6ffd1612.jpeg",
     "static/media/resume.pdf": "/christianruiz/static/media/resume.33439852.pdf",
     "static/media/todo.png": "/christianruiz/static/media/todo.fc41eb23.png",
     "static/media/waldo.png": "/christianruiz/static/media/waldo.342702f4.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.50e4d4a7.js",
     "static/js/2.70a0181b.chunk.js",
-    "static/css/main.5a3f98e1.chunk.css",
-    "static/js/main.c90ec5a3.chunk.js"
+    "static/css/main.51156e64.chunk.css",
+    "static/js/main.10677a2b.chunk.js"
   ]
 }
