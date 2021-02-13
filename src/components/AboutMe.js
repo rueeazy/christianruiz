@@ -35,11 +35,7 @@ const AboutMe = () => {
           </div>
         </div>
         <div className="photo">
-          <img
-            className="avatar"
-            alt="profile"
-            src={require(`../assets/images/portrait.jpg`)}
-          />
+          <img alt="profile" src={require(`../assets/images/portrait.jpeg`)} />
         </div>
       </div>
     </div>

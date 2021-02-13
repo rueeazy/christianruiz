@@ -140,12 +140,12 @@ html {
     display: flex;
     width: 80%;
     justify-content: space-between;
-    align-items: center;
   }
 
   img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    max-height: 325px;
+    border-radius: 50%;
   }
 
   .text-container {
@@ -183,12 +183,6 @@ html {
     color: #ccd6f6;
     font-weight: bold;
     font-size: 1.3rem;
-  }
-
-  .avatar {
-    border-radius: 50%;
-    max-width: 450px;
-    height: auto;
   }
 }
 
@@ -354,8 +348,8 @@ html {
     }
 
     img {
-      width: 60%;
-      height: auto;
+      width: auto;
+      max-width: 325px;
     }
   }
 }
@@ -363,7 +357,7 @@ html {
 @media only screen and (max-width: 480px) {
   .about {
     img {
-      width: 200px;
+      width: auto;
       height: 200px;
     }
   }
