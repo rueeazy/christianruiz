@@ -16,7 +16,7 @@ const AboutMe = () => {
             <br></br>
             <br></br>
             Shortly after moving home from New York City at the start of 2020, I
-            enrolled in App Academy Open's Full Stack Ruby on Rails course. What
+            enrolled in The Odin Project's Full Stack Ruby on Rails course. What
             resulted was a passion for building websites and applications that
             live on the internet.<br></br>
             <br></br>
