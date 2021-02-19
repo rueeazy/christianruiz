@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82a3ef25f34f24a45a9983c172730d64",
+    "revision": "e64e5ca4e7d64ed11c20a6ada76410f6",
     "url": "/christianruiz/index.html"
   },
   {
-    "revision": "f33e266d73a447a6a41a",
+    "revision": "1ce584873330a99d1c86",
     "url": "/christianruiz/static/css/main.51156e64.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianruiz/static/js/2.70a0181b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f33e266d73a447a6a41a",
-    "url": "/christianruiz/static/js/main.10677a2b.chunk.js"
+    "revision": "1ce584873330a99d1c86",
+    "url": "/christianruiz/static/js/main.f6a2542c.chunk.js"
   },
   {
     "revision": "e42596209ce81f79b2da",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christianruiz/static/media/portrait.6ffd1612.jpeg"
   },
   {
-    "revision": "334398523b4166726334ee4247a6d89a",
-    "url": "/christianruiz/static/media/resume.33439852.pdf"
+    "revision": "bad583045c29b1b7307a02dd53fa1cc7",
+    "url": "/christianruiz/static/media/resume.bad58304.pdf"
   },
   {
     "revision": "fc41eb230966d0a659688df1d609c377",
